@@ -2,14 +2,17 @@
 
 <!-- Cabeçalhos -->
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+*italico* ou _italico_
+*Estou em casa* ou _Estou em casa_
 
+**negrito** ou __negrito__
+**O dia chegou** ou  __O dia chegou__
 
+___Negrito e italico___
+
+- Lista 1
+- Lista 2 
+- sublista
 
 
 <!--
