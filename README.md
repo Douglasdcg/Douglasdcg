@@ -1,44 +1,19 @@
-## Hi there 👋
+## Sejam bem vindos ao meu mundo!
 
-<!-- Cabeçalhos -->
+![Gif tecnologia](https://i.makeagif.com/media/7-15-2016/-_O_DB.gif)
 
-*italico* ou _italico_
-*Estou em casa* ou _Estou em casa_
+👦 Ola, me chamo Douglas!
 
-**negrito** ou __negrito__
-**O dia chegou** ou  __O dia chegou__
+💻 Sou desenvolvedor de sistemas.
 
-___Negrito e italico___
+📉 Sou formado em ADS, em busca de oportunidades.
 
- - Lista 1
- - Lista 2 
-   - sublista
-
-1. Lista 1
-2. Lista 2
-
-    1.sublista
-
->Citações
-
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------|
-|   Texto 1   |   Texto 2   |
-|   Texto 3   |   Texto 4   |
-
-
-
-    [Texto da imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvG7v12uEA9VdauSc2iXhMLfyAvzz_Vg65fKnaxQ3CQ&s=10)
-
-![Texto da imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvG7v12uEA9VdauSc2iXhMLfyAvzz_Vg65fKnaxQ3CQ&s=10)
-
->Citações 
-------------
-|Cabeçalho 1|Cabeçalho 2|
-|-----------|-----------|
-| texto 1   | texto 2   |
+📝 [Acesse meu linkedin](link)
 -----
 
+### Minhas tecnologias 
+
+![SQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />)
 
 
 <!--
