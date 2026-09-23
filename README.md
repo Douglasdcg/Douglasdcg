@@ -15,9 +15,7 @@
 ### Minhas tecnologias 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="70px" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70px"/>
 
 ------
@@ -32,8 +30,7 @@
 
 ---
 
-
-![Douglas conceição GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Douglas conceição GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglasdcg&show_icons=true&theme=radical)
 
 <!--
 **Douglasdcg/Douglasdcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
