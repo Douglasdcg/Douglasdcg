@@ -13,7 +13,7 @@
 
 ### Minhas tecnologias 
 
-![SQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg)
 
 
 <!--
